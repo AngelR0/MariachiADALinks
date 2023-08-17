@@ -11,14 +11,14 @@ col2.image(Image.open('pic.jpg'))
 
 st.header('Mariachi Aguilas De America')
 
-st.info('Adept for any type of events.')
-st.info('Zelle: (469)734-7799   Ines Adrian Reyes')
+#st.info('Adept for any type of events.')
+st.info('Zelle: (469)734-7799       Ines Adrian Reyes')
 
 icon_size = 20
 
-st_button('youtube', 'https://www.youtube.com/@mariachiaguilasdeamericade2728/videos', 'Mariachi Aguilas De America Youtube channel', icon_size)
 st_button('venmo', 'https://venmo.com/u/MariachiADA', 'Tip or Pay via Venmo', icon_size)
-st_button('twitter', 'https://twitter.com/thedataprof/', 'Follow me on Twitter', icon_size)
-st_button('linkedin', 'https://www.linkedin.com/in/chanin-nantasenamat/', 'Follow me on LinkedIn', icon_size)
-st_button('newsletter', 'https://sendfox.com/dataprofessor/', 'Sign up for my Newsletter', icon_size)
-st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee', icon_size)
+st_button('youtube', 'https://www.youtube.com/@mariachiaguilasdeamericade2728/videos', 'Mariachi Aguilas De America Youtube channel', icon_size)
+st_button('facebook', 'https://www.facebook.com/mariachiaguilasde.america.90?mibextid=D4KYlr', 'Follow us on Facebook', icon_size)
+st_button('instagram', 'https://instagram.com/mariachiaguilasdeamerica14?igshid=MzRlODBiNWFlZA==', 'Follow us on Instagram', icon_size)
+#st_button('newsletter', 'https://sendfox.com/dataprofessor/', 'Sign up for my Newsletter', icon_size)
+#st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee', icon_size)

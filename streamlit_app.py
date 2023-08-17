@@ -12,7 +12,7 @@ col2.image(Image.open('pic.jpg'))
 st.header('Mariachi Aguilas De America')
 
 st.info('Contact information: (940)365-6737')
-st.info('Zelle: (469)734-7799'' Ines Adrian Reyes')
+st.info('Zelle: (469)734-7799''## Ines Adrian Reyes')
 
 icon_size = 20
 

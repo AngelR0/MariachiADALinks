@@ -18,7 +18,7 @@ st.info('Zelle: (469)734-7799'
 icon_size = 20
 
 st_button('venmo', 'https://venmo.com/u/MariachiADA', 'Tip or Pay via Venmo', icon_size)
-st_button('youtube', 'https://www.youtube.com/@mariachiaguilasdeamericade2728/videos', 'Mariachi Aguilas De America Youtube channel', icon_size)
+st_button('youtube', 'https://www.youtube.com/@mariachiaguilasdeamericade2728/videos', 'Youtube channel', icon_size)
 st_button('facebook', 'https://www.facebook.com/mariachiaguilasde.america.90?mibextid=D4KYlr', 'Follow us on Facebook', icon_size)
 st_button('instagram', 'https://instagram.com/mariachiaguilasdeamerica14?igshid=MzRlODBiNWFlZA==', 'Follow us on Instagram', icon_size)
 #st_button('newsletter', 'https://sendfox.com/dataprofessor/', 'Sign up for my Newsletter', icon_size)
